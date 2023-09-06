@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">Song List App</h1>
-<img src="kaduriflix-preview.gif"/>
+<img src="preview.png"/>
   <p align="center">
     An application that performs the following tasks:
 
