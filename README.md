@@ -31,7 +31,7 @@
 ### Built With
 
 - **[React](https://reactjs.org/)**
-- **[nest.js](https://nestjs.com/)**
+- **[Nest.js](https://nestjs.com/)**
 - **[MySql](https://www.mysql.com/)**
 
 ## Getting Started
