@@ -3,7 +3,6 @@
 <img src="preview.png"/>
   <p align="center">
     An application that performs the following tasks:
-
       1. Parse a CSV file containing song data.
       2. Store the parsed song records into a MySQL database.
       3. Display the songs in a tabular format, sorted by the band's name.
@@ -51,21 +50,22 @@ Install latest version of npm
 
 1. Clone the project
    ```sh
-   git clone https://github.com/kadurinadav/song_list_app.git
+   git clone https://github.com/kadurinadav/Song-List-app.git
    ```
 2. Go to project directory and run the client and the server as instructed below. 
 
 #### server side
 1. Navigate to the server folder:
    ```sh
-   cd server
+   cd backend
    ```
 2. Install NPM packages:
    ```sh
    npm install
    ```
-3. Create .env file in server directory.
-4. Create database at MongoDB and add the following varibles accorsing to your settings.
+3. MySQL: You need to have MySQL installed on your system. If you don't have it installed, you can download it from [MySQL Downloads](https://dev.mysql.com/downloads/).
+4. Create .env file in server directory.
+5. Create database at MySql and add the following varibles according to your settings.
    ```sh
    DB_HOST=your_database_host
    DB_PORT=your_database_port (e.g., 3306 for MySQL)
@@ -73,15 +73,14 @@ Install latest version of npm
    DB_PASSWORD=your_database_password
    DB_DATABASE=your_database_name
    ```
-
-5. Start the server
+6. Start the server
    ```sh
    npm start
    ```
 #### client side
 1. Navigate to the client folder:
    ```sh
-   cd client
+   cd frontend
    ```
 2. Install NPM packages:
    ```sh
