@@ -6,7 +6,7 @@
       1. Parse a CSV file containing song data.
       2. Store the parsed song records into a MySQL database.
       3. Display the songs in a tabular format, sorted by the band's name.
-
+  </p>
     <br /><br />
 
 <h2 style="display: inline-block">Table of Contents</h2>
