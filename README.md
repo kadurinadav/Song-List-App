@@ -3,9 +3,9 @@
 <img src="preview.png"/>
   <p align="center">
     An application that performs the following tasks:
-      1. Parse a CSV file containing song data.
-      2. Store the parsed song records into a MySQL database.
-      3. Display the songs in a tabular format, sorted by the band's name.
+      1. Parse a CSV file containing song data.<br /><br />
+      2. Store the parsed song records into a MySQL database.<br /><br />
+      3. Display the songs in a tabular format, sorted by the band's name.<br /><br />
   </p>
     <br /><br />
 
