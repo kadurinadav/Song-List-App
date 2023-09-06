@@ -1,0 +1,40 @@
+/* Style the table */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+
+
+}
+
+/* Style the table header 007bff */
+thead th {
+  background-color: #f57c6ae7;
+  color: white;
+  font-weight: bold;
+  padding: 12px;
+  text-align: left;
+  font-size: larger;
+}
+
+/* Style table rows */
+tbody tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+/* Style table rows */
+tbody tr:nth-child(odd) {
+    background-color: #d6d5d5;
+  }
+
+/* Style table cell */
+td {
+  padding: 10px;
+  text-align: left;
+  font-weight: 500;
+}
+
+tbody tr:hover {
+    background-color: #f5b57ae7;
+    cursor: pointer;
+  }

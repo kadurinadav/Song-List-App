@@ -1,0 +1,15 @@
+.table-title{
+  text-align: center;
+  font-weight: 700;
+  font-size: 40px;
+  color: rgb(248, 115, 115);
+}
+
+body {
+  background-image: url('../public/background.png');
+  background-size:auto; 
+  background-repeat: no-repeat; 
+  background-attachment: fixed; 
+  background-position: center center; 
+  background-color: rgba(255, 255, 255, 0.9);
+}
